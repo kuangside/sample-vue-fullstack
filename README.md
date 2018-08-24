@@ -1,9 +1,9 @@
 # Create New Project
 
-* [ ] Create Server Folder
-  * [ ] Init npm
-  * [ ] Add express morgan cors body-parser
-  * [ ] Create Hello World Route
+* [x] Create Server Folder
+  * [x] Init npm
+  * [x] Add express morgan cors body-parser
+  * [x] Create Hello World Route
 * [ ] Create Client Folder
   * [ ] vue create client
   * [ ] Add bootswatch CSS
